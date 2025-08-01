@@ -1,0 +1,30 @@
+[
+	{
+		"fields": [
+			"prediction",
+			"probability"
+		],
+		"values": [
+			[
+				"Thunderstorm",
+				[
+					0,
+					0,
+					0,
+					1,
+					0
+				]
+			],
+			[
+				"Thunderstorm",
+				[
+					0,
+					0,
+					0,
+					1,
+					0
+				]
+			]
+		]
+	}
+]
